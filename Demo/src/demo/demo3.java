@@ -9,6 +9,6 @@ package demo;
  *
  * @author quocs
  */
-public class demo1 {
-    int a=0;
+public class demo3 {
+    
 }
