@@ -18,6 +18,7 @@ public class Demo {
         // TODO code application logic here
         System.out.println("Demo Sourcetree");
         System.out.print("Hello world");
+        System.out.println("=================");
     }
     
 }
